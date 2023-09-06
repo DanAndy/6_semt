@@ -6,3 +6,5 @@
 Excel/Python Mathplotlib
 
 https://docs.google.com/spreadsheets/d/1wc-VA7KR6cpUBlM_Z6kmQUDay_arYkL5c0GFcSzYP0g/edit?usp=sharing
+
+https://replit.com/@DanAndy/Chisliennyie-mietody#main.py
