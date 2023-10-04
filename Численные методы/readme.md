@@ -39,4 +39,6 @@ https://replit.com/@DanAndy/Chisliennyie-mietody#main.py
     1)3 вопроса (1 вопрос по теории, 2 по exel, 3 по реплиту)
     2)защищать разделы можно в течении семестра 
     3)оценка 3 - если есть и можете объяснить программу, оценка - 4 к программе добавляется exel, оценка 5 - добавляется теория.
+
+ОТЧЕТ : https://docs.google.com/document/d/1gDIHoVMt0utz4sGsJkuTAMa6s9iBsaGzost0y7xIDKQ/edit?usp=sharing
     
