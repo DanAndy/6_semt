@@ -24,8 +24,8 @@ https://www.figma.com/file/PjWSPfHCVR144K2ev8cFU3/Transportation-Mobile-Apps-Des
     текстовые блоки
     медиа элементы(картинки видео)
     кнопки(выпадающий список, радиальный список)    
-  для компановки элементов используются шаблоны (вставить ссылку из вк)
-  название приложения -> app -> res -> layout -> activity maiml
+  для компановки элементов используются шаблоны (таблица грид)
+  название приложения -> app -> res -> layout -> activity maixml
 
 вырать сплит 
 ![image](https://github.com/DanAndy/5_semt/assets/113089418/4cb1e94b-774a-4cdb-8f43-b710758eb74a)
