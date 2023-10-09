@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\PopovA.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\PopovA.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\App.g.cs
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\PopovA_MarkupCompile.cache
+C:\Users\user\source\repos\PopovA\PopovA\bin\Debug\PopovA.exe.config
+C:\Users\user\source\repos\PopovA\PopovA\bin\Debug\PopovA.exe
+C:\Users\user\source\repos\PopovA\PopovA\bin\Debug\PopovA.pdb
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\PopovA_MarkupCompile.lref
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\PopovA.g.resources
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\PopovA.Properties.Resources.resources
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\PopovA.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\PopovA.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\PopovA.exe
+C:\Users\user\source\repos\PopovA\PopovA\obj\Debug\PopovA.pdb
