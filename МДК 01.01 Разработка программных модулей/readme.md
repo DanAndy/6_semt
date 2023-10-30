@@ -38,3 +38,5 @@ https://www.figma.com/file/PjWSPfHCVR144K2ev8cFU3/Transportation-Mobile-Apps-Des
   анимации(проигрование видео)
   api
   java cotlin
+  ![image](https://github.com/DanAndy/5_semt/assets/113089418/e0dc1ee9-300a-494e-8266-1c8830baef36)
+
