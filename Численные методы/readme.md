@@ -41,4 +41,6 @@ https://replit.com/@DanAndy/Chisliennyie-mietody#main.py
     3)оценка 3 - если есть и можете объяснить программу, оценка - 4 к программе добавляется exel, оценка 5 - добавляется теория.
 
 ОТЧЕТ : https://docs.google.com/document/d/1gDIHoVMt0utz4sGsJkuTAMa6s9iBsaGzost0y7xIDKQ/edit?usp=sharing
-    
+
+[    https://colab.research.google.com/drive/1B1HaZ7AltcsNVdtlEYmWH6BQie3NAY_V?usp=sharing](https://colab.research.google.com/drive/1B1HaZ7AltcsNVdtlEYmWH6BQie3NAY_V?usp=sharing)https://colab.research.google.com/drive/1B1HaZ7AltcsNVdtlEYmWH6BQie3NAY_V?usp=sharing
+https://colab.research.google.com/drive/1B1HaZ7AltcsNVdtlEYmWH6BQie3NAY_V?usp=sharing
