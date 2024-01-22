@@ -1,8 +1,6 @@
 ЛК1 22.01.24
 ОСНОВЫ ТЕСТИРОВАНИЯ 
-![image](https://github.com/DanAndy/6_semt/assets/113089418/1a8dd00c-c1e8-4247-ba0b-80cd3f89e8e3)
-![image](https://github.com/DanAndy/6_semt/assets/113089418/dd92ffda-e411-4be1-a503-df8f6af1cd2f)
-![image](https://github.com/DanAndy/6_semt/assets/113089418/eba641e8-8ebc-4b03-91e6-2b5c50afacea)
-![image](https://github.com/DanAndy/6_semt/assets/113089418/c1ab6c9a-38fa-483f-ba90-0172b6d63e76)
-![image](https://github.com/DanAndy/6_semt/assets/113089418/3ff60486-fd99-4632-b42c-7bb3e787da55)
+![image](https://github.com/DanAndy/6_semt/assets/113089418/8cf150f2-597b-43bc-ba0c-98c1c44fb23a)
+![image](https://github.com/DanAndy/6_semt/assets/113089418/a51c0ae6-25e5-4d78-b8cc-5cbc11b006b1)
+![image](https://github.com/DanAndy/6_semt/assets/113089418/4dfd753f-307a-4b0a-b1b8-b9c5e54e78ba)
 
