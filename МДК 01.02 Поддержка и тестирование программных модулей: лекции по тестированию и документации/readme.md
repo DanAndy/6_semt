@@ -3,6 +3,7 @@
 ![image](https://github.com/DanAndy/6_semt/assets/113089418/8cf150f2-597b-43bc-ba0c-98c1c44fb23a)
 ![image](https://github.com/DanAndy/6_semt/assets/113089418/a51c0ae6-25e5-4d78-b8cc-5cbc11b006b1)
 ![image](https://github.com/DanAndy/6_semt/assets/113089418/4dfd753f-307a-4b0a-b1b8-b9c5e54e78ba)
+
 Требования к тестировщика: 
   1) Теория тестирования и документация
   2) Знания прдмета который тестируется 
