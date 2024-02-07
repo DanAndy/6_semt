@@ -5,5 +5,6 @@
 5) Pythom aktionada ABS https://study-school.action.group/certificateview/986a578b-ed6d-4680-91d3-a183b3a19c99
 6) stepik [stepik-certificate-173083-61b1854.pdf](https://github.com/DanAndy/6_semt/files/14182810/stepik-certificate-173083-61b1854.pdf)
 7) рисуй с нами ![Сертификат](https://github.com/DanAndy/6_semt/assets/113089418/62ac66d2-59c9-4295-b96e-da25e1a8f834)
+8) инглиш ![diploma-s570230](https://github.com/DanAndy/6_semt/assets/113089418/16dd121b-b9bc-4162-8baf-b5cff5d49b98)
+9) ![diploma-t570230](https://github.com/DanAndy/6_semt/assets/113089418/f3294121-e059-4a9c-b9c1-adf644b987bd)
 
-8) инглиш ![image](https://github.com/DanAndy/6_semt/assets/113089418/0e2c58f0-154c-4c7e-b070-25d533536e8b)
