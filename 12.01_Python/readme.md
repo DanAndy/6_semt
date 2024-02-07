@@ -1,1 +1,1 @@
-кола - https://colab.research.google.com/drive/1eZtUYWThxpU0dJtQ3R4QRjZWokWErUgN?usp=sharing
+кола - https://colab.research.google.com/drive/1zjwPayNi6Uhl6S6ykY9BFG9jAL567dF-?usp=drive_link
