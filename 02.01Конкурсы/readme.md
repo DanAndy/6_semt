@@ -5,9 +5,10 @@
 5) Pythom aktionada ABS https://study-school.action.group/certificateview/986a578b-ed6d-4680-91d3-a183b3a19c99
 6) stepik [stepik-certificate-173083-61b1854.pdf](https://github.com/DanAndy/6_semt/files/14182810/stepik-certificate-173083-61b1854.pdf)
 7) рисунок :![124487-324684-880](https://github.com/DanAndy/6_semt/assets/113089418/a46dff8f-e0ba-48bd-b576-22336bf3b7e3)
+
    рисуй с нами ![Сертификат](https://github.com/DanAndy/6_semt/assets/113089418/62ac66d2-59c9-4295-b96e-da25e1a8f834)
-8) ссылка : https://erudit-online.ru/konkurs/655.html инглиш ![diploma-s570230](https://github.com/DanAndy/6_semt/assets/113089418/16dd121b-b9bc-4162-8baf-b5cff5d49b98)
-9) ![diploma-t570230](https://github.com/DanAndy/6_semt/assets/113089418/f3294121-e059-4a9c-b9c1-adf644b987bd)
-10) ссылка : https://mir-olimpiad.ru/olimpiady/575-vserossiiskaya-olimpiada-dlya-studentov-mir-angliiskogo-yazyka/  ![1](https://github.com/DanAndy/6_semt/assets/113089418/2a5dd1fe-e63f-4c35-bb63-1ea7646537d9)
+9) ссылка : https://erudit-online.ru/konkurs/655.html инглиш ![diploma-s570230](https://github.com/DanAndy/6_semt/assets/113089418/16dd121b-b9bc-4162-8baf-b5cff5d49b98)
+10) ![diploma-t570230](https://github.com/DanAndy/6_semt/assets/113089418/f3294121-e059-4a9c-b9c1-adf644b987bd)
+11) ссылка : https://mir-olimpiad.ru/olimpiady/575-vserossiiskaya-olimpiada-dlya-studentov-mir-angliiskogo-yazyka/  ![1](https://github.com/DanAndy/6_semt/assets/113089418/2a5dd1fe-e63f-4c35-bb63-1ea7646537d9)
 ![certificate](https://github.com/DanAndy/6_semt/assets/113089418/e0645b65-88ed-4467-9aa5-4f68c49b400f)
 
