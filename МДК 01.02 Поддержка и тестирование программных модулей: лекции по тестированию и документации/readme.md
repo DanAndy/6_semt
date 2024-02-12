@@ -92,4 +92,8 @@
   4) Спиральная модель
        1) Сложно тестировать на ранних этапах но тестирование становится ключевым этапом
 
+![image](https://github.com/DanAndy/6_semt/assets/113089418/05c4244c-d720-4cb3-b8a0-aa8fa49e9ecf)
+
+![image](https://github.com/DanAndy/6_semt/assets/113089418/67b8ea9f-f469-44b0-b60f-cd2502f4903e)
+
 
