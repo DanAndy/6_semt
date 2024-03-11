@@ -147,4 +147,13 @@
    
 
 
-!! ВАЖНО https://docs.google.com/document/d/1HOLKqPUAQFTGmtaQGacwKFFMZiCr6q8s/edit#heading=h.gjdgxs  !!
+# !! ВАЖНО https://docs.google.com/document/d/1HOLKqPUAQFTGmtaQGacwKFFMZiCr6q8s/edit#heading=h.gjdgxs  !!
+
+# Unit test 
+
+Unit тест - блок кода (обычно метод), который вызывает
+тестируемый блок кода и проверяет правильность его
+работы. Если результат юнит-теста не совпадает с
+ожидаемым результатом, тест считается не пройденным
+Должен проверять одно действие и быть
+универсальным
