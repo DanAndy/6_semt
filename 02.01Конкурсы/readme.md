@@ -13,5 +13,7 @@
 ![certificate](https://github.com/DanAndy/6_semt/assets/113089418/e0645b65-88ed-4467-9aa5-4f68c49b400f)
 
 12)[Braim.Challenge — Платформа инновационных соревнований .pdf](https://github.com/DanAndy/6_semt/files/15058205/Braim.Challenge.pdf)
+13) ![image](https://github.com/DanAndy/6_semt/assets/113089418/efecc783-a176-4331-b3fc-36dedc771dd3)
+![image](https://github.com/DanAndy/6_semt/assets/113089418/3c7025fd-fb2d-425e-934d-66f0a4a7b548)
 
 
